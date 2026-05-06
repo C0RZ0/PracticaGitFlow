@@ -1,7 +1,7 @@
-Practica de GitFlow
-Descripción
-Instalación
-Uso
-Autores
-Flujo de trabajo Git
-Evidencias
+# Nombre del Proyecto
+## Descripción
+## Instalación
+## Uso
+## Autores
+## Flujo de trabajo Git
+## Evidencias
