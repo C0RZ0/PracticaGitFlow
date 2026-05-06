@@ -9,7 +9,7 @@ Uso de gitpush, git checkout, e.t.c para cumplir misiones.
 Ejemplo: git checkout -b [NOMBRE DE LA RAMA NUEVA]
 con este comando de git comenzaremos a trabajar en una nueva rama, importante para no arruniar main.
 ## Autores
-Matthew Habib Corzo Torres 
+Matthew Habib Corzo Torres.
 ## Flujo de trabajo Git
 En este proyecto hemos aplicado el modelo **GitFlow** para organizar el desarrollo:
 
